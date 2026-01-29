@@ -8,7 +8,7 @@ export interface Product {
     release?:      string;
     tail:         string;
     type:         string;
-    id?:           number;
+    id:           number;
     price:        number;
 }
 

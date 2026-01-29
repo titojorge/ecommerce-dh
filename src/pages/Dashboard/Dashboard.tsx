@@ -16,6 +16,7 @@ const Dashboard = () => {
         release: '',
         tail: '',
         type: '',
+        id: 0,
         price: 0
     })
 
